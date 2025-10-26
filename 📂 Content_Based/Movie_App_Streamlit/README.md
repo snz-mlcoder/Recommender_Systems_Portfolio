@@ -51,7 +51,7 @@ In this file, set your TMDb API key:
 
 Code snippet
 
-# .env file
+ .env file
 TMDB_API_KEY="YOUR_ACTUAL_TMDB_API_KEY_HERE"
 
 ### 5. Prepare the Model Files
