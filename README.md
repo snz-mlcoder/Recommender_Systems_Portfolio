@@ -8,7 +8,11 @@ This repository contains various projects focused on different types of recommen
 
 | Project Title | Description | Technologies | 
 | :--- | :--- | :--- | :--- |
+<<<<<<< HEAD
 | **Movie Recommender (Streamlit)** | A Content-Based System that suggests movies by analyzing plot summaries and genres using Cosine Similarity. | Python, Scikit-learn, Streamlit, TMDb API, dotenv |
+=======
+| **Movie Recommender (Streamlit)** | A Content-Based System that suggests movies by analyzing plot summaries and genres using Cosine Similarity. | Python, Scikit-learn, Streamlit, TMDb API, dotenv | [View README](./Content_Based/Movie_App_Streamlit) |
+>>>>>>> 08cefaea345462954cffeebb8cefd9660e02810e
 
 
 ### 2. Collaborative Filtering Recommenders
