@@ -8,3 +8,14 @@ venv/
 env/
 *.pkl
 
+# data
+
+*.parquet
+*.zip
+
+# notebooks outputs
+.ipynb_checkpoints/
+
+
+# ignore all raw data everywhere
+**/data/raw/**
